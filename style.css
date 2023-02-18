@@ -31,10 +31,11 @@ span{
 .word-img-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     height: 70%;
     width: 100%;
     flex-wrap: nowrap;
+    margin-top: 50px;
 }
 
 .letters{
@@ -81,7 +82,7 @@ button:hover {
     left: 50%;
     transform: translateX(-50%);
     width: 50vw;
-    min-width: 400px;
+    min-width: 250px;
     height: 50vh;
     display: flex;
     align-items: center;
