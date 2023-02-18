@@ -10,7 +10,7 @@ img {
 }
 
 body {
-    font-family: cursive;
+    font-family: cursive, Arial, Helvetica, sans-serif;
     background-color: rgba(127, 255, 212, 0.555);
 }
 
@@ -51,7 +51,7 @@ span{
     width: 60px;
     height: 60px;
     font-size: 2rem;
-    font-family: cursive;
+    font-family: cursive, Arial, Helvetica, sans-serif;
     color: white;
     background-color: black;
     border: none;
